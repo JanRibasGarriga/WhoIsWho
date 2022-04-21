@@ -6,7 +6,7 @@ WhoIsWho is a collection of self-explanatory Jupyter Notebooks for [**Google Col
 
 ## Want to read the report?
 
-This repository is part of the [**bachelor's thesis**][2] (undergraduate project) conducted by [**Jan Ribas-Garriga**][3] under the frame of Erasmus+ Traineeship in the Toledo Group at the Center for Chromosome Stability from the Department of Cellular and Molecular Medicine.
+This repository is part of the [**bachelor's thesis**][2] (undergraduate project) conducted by [**Jan Ribas-Garriga**][3] under the frame of Erasmus+ Traineeship in the Toledo Group at the Center for Chromosome Stability from the Department of Cellular and Molecular Medicine from October 2020 to June 2021.
 
 ### Abstract
 
