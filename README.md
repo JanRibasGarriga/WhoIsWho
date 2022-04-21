@@ -16,7 +16,7 @@ Cell lines have long served as tools for understanding cancer at the molecular l
 
 | Running a WhoIsWho notebook |
 |:-:|
-| [![](https://github.com/JanRibasGarriga/WhoIsWho/media/Screenshot_VideoDemonstration.jpg)](https://www.youtube.com/watch?v=nmS1tkuuGYM) |
+| [![](https://github.com/JanRibasGarriga/WhoIsWho/master/media/Screenshot_VideoDemonstration.jpg)](https://www.youtube.com/watch?v=nmS1tkuuGYM) |
 
 ## Who is it for?
 
