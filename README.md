@@ -1,4 +1,4 @@
-# WhoIsWho: exploiting Google Colab to develop a free and open-source toolbox for deep learning in microscopy
+# WhoIsWho: exploiting Google Colab to classify cells based on features related to their nuclei and their neighbours
 
 ## What is this?
 
