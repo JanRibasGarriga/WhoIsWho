@@ -22,6 +22,10 @@ Cell lines have long served as tools for understanding cancer at the molecular l
 
 Any researcher interested in microscopy, independent of their background training. **WhoIsWho** is designed for anyone with little or no coding expertise to quickly train, test and use popular deep learning tools used to process microscopy data.
 
+## Acknowledgements
+
+I would like to thank my co-supervisors Luis Toledo from the University of Copenhagen and Christian Mata i Miquel from the Polytechnic University of Catalonia for their help and guidance throughout the project. I am also vastly grateful for the endless patience and wise bits of advice from H. Martin Kjer. I would also like to show my appreciation to Chris Dinant for such useful discussions and feedback.
+
   [1]: https://colab.research.google.com/notebooks/intro.ipynb
   [2]: https://upcommons.upc.edu/handle/2117/347783
   [3]: https://www.linkedin.com/in/janribasgarriga/
